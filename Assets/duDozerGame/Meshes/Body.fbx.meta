@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 7408c4a7790c64c8bb94ee02632024b8
+timeCreated: 1488260468
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: Body
+    100004: //RootNode
+    100006: Bottom
+    100008: CoinsDropPointer
+    100010: DropAreas
+    100012: DropAreaSplitter_Left
+    100014: DropAreaSplitter_Right
+    100016: FallAreas
+    100018: Hill_Back
+    100020: Hill_Left
+    100022: Hill_Right
+    100024: Left
+    100026: ObjectsDropArea
+    100028: Outside_Border_Back
+    100030: Outside_Border_Left
+    100032: Outside_Border_Right
+    100034: Outside_Borders
+    100036: Plane_Front
+    100038: Plane_Left
+    100040: Plane_Right
+    100042: Pusher
+    100044: Right
+    100046: Shield_Left
+    100048: Shield_Right
+    100050: Table
+    100052: TapInfoHelper
+    100054: Touch_Areas
+    400000: Back
+    400002: Body
+    400004: //RootNode
+    400006: Bottom
+    400008: CoinsDropPointer
+    400010: DropAreas
+    400012: DropAreaSplitter_Left
+    400014: DropAreaSplitter_Right
+    400016: FallAreas
+    400018: Hill_Back
+    400020: Hill_Left
+    400022: Hill_Right
+    400024: Left
+    400026: ObjectsDropArea
+    400028: Outside_Border_Back
+    400030: Outside_Border_Left
+    400032: Outside_Border_Right
+    400034: Outside_Borders
+    400036: Plane_Front
+    400038: Plane_Left
+    400040: Plane_Right
+    400042: Pusher
+    400044: Right
+    400046: Shield_Left
+    400048: Shield_Right
+    400050: Table
+    400052: TapInfoHelper
+    400054: Touch_Areas
+    2300000: Back
+    2300002: Bottom
+    2300004: CoinsDropPointer
+    2300006: DropAreaSplitter_Left
+    2300008: DropAreaSplitter_Right
+    2300010: Hill_Back
+    2300012: Hill_Left
+    2300014: Hill_Right
+    2300016: Left
+    2300018: ObjectsDropArea
+    2300020: Outside_Border_Back
+    2300022: Outside_Border_Left
+    2300024: Outside_Border_Right
+    2300026: Plane_Front
+    2300028: Plane_Left
+    2300030: Plane_Right
+    2300032: Pusher
+    2300034: Right
+    2300036: Shield_Left
+    2300038: Shield_Right
+    2300040: Table
+    2300042: TapInfoHelper
+    3300000: Back
+    3300002: Bottom
+    3300004: CoinsDropPointer
+    3300006: DropAreaSplitter_Left
+    3300008: DropAreaSplitter_Right
+    3300010: Hill_Back
+    3300012: Hill_Left
+    3300014: Hill_Right
+    3300016: Left
+    3300018: ObjectsDropArea
+    3300020: Outside_Border_Back
+    3300022: Outside_Border_Left
+    3300024: Outside_Border_Right
+    3300026: Plane_Front
+    3300028: Plane_Left
+    3300030: Plane_Right
+    3300032: Pusher
+    3300034: Right
+    3300036: Shield_Left
+    3300038: Shield_Right
+    3300040: Table
+    3300042: TapInfoHelper
+    4300000: TapInfoHelper
+    4300002: DropAreaSplitter_Left
+    4300004: DropAreaSplitter_Right
+    4300006: Table
+    4300008: Hill_Left
+    4300010: Hill_Right
+    4300012: Hill_Back
+    4300014: Pusher
+    4300016: Shield_Left
+    4300018: Shield_Right
+    4300020: Outside_Border_Back
+    4300022: Outside_Border_Left
+    4300024: Outside_Border_Right
+    4300026: Plane_Left
+    4300028: Plane_Right
+    4300030: Plane_Front
+    4300032: Back
+    4300034: Right
+    4300036: Left
+    4300038: Bottom
+    4300040: ObjectsDropArea
+    4300042: CoinsDropPointer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
